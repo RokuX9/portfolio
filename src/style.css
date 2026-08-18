@@ -1,0 +1,24 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#room-selector {
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+#room-selector.hidden {
+  transform: translateX(-150%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Don't hide on mobile */
+@media (hover: none) and (pointer: coarse) {
+  #room-selector.hidden {
+    transform: none;
+    opacity: 1;
+    pointer-events: auto;
+  }
+}

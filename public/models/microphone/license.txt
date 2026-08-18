@@ -1,0 +1,11 @@
+Model Information:
+* title:	Microphone with News Channel Box
+* source:	https://sketchfab.com/3d-models/microphone-with-news-channel-box-a28f5e3ca19c458c85803c7edc5b7e8a
+* author:	AnaG (https://sketchfab.com/baryy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Microphone with News Channel Box" (https://sketchfab.com/3d-models/microphone-with-news-channel-box-a28f5e3ca19c458c85803c7edc5b7e8a) by AnaG (https://sketchfab.com/baryy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
