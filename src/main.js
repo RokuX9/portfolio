@@ -1,4 +1,5 @@
 import "./style.css";
+import "./setupLoader";
 import * as THREE from "three";
 import { PlayerController } from "./components/controllers/PlayerController";
 import { map, colliders, portals, interactables, updatables } from "./components/scenes/Map";
