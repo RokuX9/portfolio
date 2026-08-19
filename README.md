@@ -1,4 +1,4 @@
-# Interactive 3D Portfolio Experience
+# Interactive 3D Portfolio
 
 **Live Demo:** [https://portfolio.rokux9.com](https://portfolio.rokux9.com)
 
