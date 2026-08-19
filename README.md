@@ -1,5 +1,7 @@
 # Interactive 3D Portfolio Experience
 
+**Live Demo:** [https://portfolio.rokux9.com](https://portfolio.rokux9.com)
+
 A fully interactive, first-person 3D portfolio designed to showcase projects and skills in an immersive, non-euclidean virtual museum. Built from scratch with **Three.js**, this portfolio goes beyond traditional web design by utilizing spatial navigation and seamless portal mechanics.
 
 ## Features
